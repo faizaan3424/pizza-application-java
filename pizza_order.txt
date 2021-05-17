@@ -1,0 +1,17 @@
+Pizza Order
+===========
+Crust:
+     Thin
+Toppings:
+     Extra Cheese
+     Peppers
+     Olives
+Sides:
+     6 Bread Sticks
+     3 Buffalo Wings
+Deliver To:
+     Faizaan
+     123 Sesame Street
+     Mississauga
+
+***END OF ORDER ***

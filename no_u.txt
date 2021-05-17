@@ -1,0 +1,11 @@
+| Choice List |
+    Text Fields:
+       ljahgjlwaekgnaelswdmhawekhawuoitbjqwkuetgjkadsbgjkobw4qejg
+       faizaan
+       ...
+   Radio Button:
+      three
+    Check Boxes:
+       yes
+       no
+Did you like the cat?
